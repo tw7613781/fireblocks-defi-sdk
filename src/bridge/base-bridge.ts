@@ -8,7 +8,8 @@ const CHAIN_TO_ASSET_ID: {[key: string]: string } = {
     [Chain.KOVAN]: 'ETH_TEST2',
     [Chain.BSC]: 'BNB_BSC',
     [Chain.BSC_TEST]: 'BNB_TEST',
-    [Chain.POLYGON]: 'MATIC_POLYGON'
+    [Chain.POLYGON]: 'MATIC_POLYGON',
+    [Chain.SMARTBCH_TEST]: 'PPFLY_SMARTBCH_AMBER'
 }
 
 const CHAIN_IDS = {
