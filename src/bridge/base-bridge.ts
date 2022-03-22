@@ -17,7 +17,9 @@ const CHAIN_IDS = {
     [Chain.KOVAN]: 42,
     [Chain.BSC]: 56,
     [Chain.BSC_TEST]: 97,
-    [Chain.POLYGON]: 137
+    [Chain.POLYGON]: 137,
+    [Chain.MUMBAI]: 80001,
+    [Chain.SMARTBCH_TEST]: 10001
 }
 
 

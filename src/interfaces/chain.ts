@@ -4,5 +4,7 @@ export enum Chain {
     KOVAN = "kovan",
     BSC = "bsc",
     BSC_TEST = "bsc_test",
-    POLYGON = "polygon"
+    POLYGON = "polygon",
+    MUMBAI = "polygon_test",
+    SMARTBCH_TEST = "smartbch_amber"
 }
