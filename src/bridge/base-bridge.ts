@@ -10,7 +10,7 @@ const CHAIN_TO_ASSET_ID: {[key: string]: string } = {
     [Chain.BSC_TEST]: 'BNB_TEST',
     [Chain.POLYGON]: 'MATIC_POLYGON',
     [Chain.MUMBAI]: 'MATIC_POLYGON_MUMBAI',
-    [Chain.SMARTBCH_TEST]: 'PPFLY_SMARTBCH_AMBER'
+    [Chain.SMARTBCH_TEST]: 'SMARTBCH_TEST'
 }
 
 const CHAIN_IDS = {
