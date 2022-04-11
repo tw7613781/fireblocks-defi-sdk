@@ -6,6 +6,7 @@ export enum Chain {
     BSC_TEST = "bsc_test",
     POLYGON = "polygon",
     POLYGON_TEST = "polygon_test",
+    SMARTBCH = "smartbch",
     SMARTBCH_TEST = "smartbch_amber",
     AVAX_TEST = "avax_test"
 }
