@@ -11,6 +11,7 @@ const CHAIN_TO_ASSET_ID = {
     [chain_1.Chain.BSC_TEST]: 'BNB_TEST',
     [chain_1.Chain.POLYGON]: 'MATIC_POLYGON',
     [chain_1.Chain.POLYGON_TEST]: 'MATIC_POLYGON_MUMBAI',
+    [chain_1.Chain.SMARTBCH]: 'BCH',
     [chain_1.Chain.SMARTBCH_TEST]: 'SMARTBCH_TEST',
     [chain_1.Chain.AVAX_TEST]: 'AVAXTEST'
 };
@@ -22,6 +23,7 @@ const CHAIN_IDS = {
     [chain_1.Chain.BSC_TEST]: 97,
     [chain_1.Chain.POLYGON]: 137,
     [chain_1.Chain.POLYGON_TEST]: 80001,
+    [chain_1.Chain.SMARTBCH]: 10000,
     [chain_1.Chain.SMARTBCH_TEST]: 10001,
     [chain_1.Chain.AVAX_TEST]: 43113
 };
