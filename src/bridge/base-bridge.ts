@@ -10,7 +10,7 @@ const CHAIN_TO_ASSET_ID: {[key: string]: string } = {
     [Chain.BSC_TEST]: 'BNB_TEST',
     [Chain.POLYGON]: 'MATIC_POLYGON',
     [Chain.POLYGON_TEST]: 'MATIC_POLYGON_MUMBAI',
-    [Chain.SMARTBCH]: 'Fly Coin',
+    [Chain.SMARTBCH]: 'FLY_SMARTBCH',
     [Chain.SMARTBCH_TEST]: 'SMARTBCH_TEST',
     [Chain.AVAX_TEST]: 'AVAXTEST'
 }
